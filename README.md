@@ -1,17 +1,18 @@
-<!-- INTRODUCTION -->
-
 <div align="center">
 
-# Hi there, I'm Aashritha! 👋
+# Hi there, I'm Aashritha Royyala! 👋
 
-### 💻 Developer | 🤖 AI & Machine Learning Enthusiast | 🚀 Lifelong Learner
+### 🚀 B.Tech CSE Student | Python Developer | Cloud Computing | DSA Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+AI+and+Machine+Learning;Building+Projects+and+Learning;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+💡 Passionate about Python, Machine Learning, and Cloud Computing.
+
+🌱 Exploring and building projects.
+📚 Learning DSA and improving my problem-solving skills.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Exploring+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Building+Projects+and+Learning" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/aashrithar21">
-    <img src="https://img.shields.io/badge/GitHub-aashrithar21-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=aashrithar21&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -20,32 +21,45 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Aashritha Royyala**, a developer interested in building useful applications and exploring emerging technologies.
+I'm a B.Tech Computer Science and Engineering student passionate about programming, emerging technologies, and continuous learning.
 
-* 🤖 Interested in Artificial Intelligence and Machine Learning.
-* 🧠 Exploring data structures, algorithms, and problem-solving.
-* 💻 Building projects to strengthen my development skills.
-* 🚀 Interested in turning innovative ideas into practical solutions.
-* 🤝 Open to learning, collaboration, and open-source opportunities.
-* 🌱 Always learning and looking for new challenges.
+* 🐍 Developing my Python programming skills.
+* 🤖 Exploring Machine Learning and Artificial Intelligence.
+* ☁️ Learning about Cloud Computing and its applications.
+* 🧩 Learning Data Structures and Algorithms.
+* 🚀 Exploring new technologies and building projects.
+* 🌱 Improving my skills through hands-on experience.
+* 🤝 Interested in collaborating with fellow developers and learners.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Tools
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=4" alt="Programming Languages" />
-</p>
-
-### Development Tools
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" alt="Programming Languages" />
 </p>
 
-> These are starter icons. Keep only the technologies you actually use, and add your other languages, frameworks, and tools as appropriate.
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web Technologies" />
+</p>
+
+### ⚙️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer Tools" />
+</p>
+
+### ☁️ Cloud & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb&theme=dark" alt="Cloud and Database Technologies" />
+</p>
+
+> Keep only the technologies you have used or are currently learning. Remove any icons that don't match your experience.
 
 ---
 
@@ -55,33 +69,27 @@ Hi! I'm **Aashritha Royyala**, a developer interested in building useful applica
 
 An AI-oriented shopping project focused on helping users explore products and compare prices.
 
-**Explore the project:** [AI Shopping Buddy](https://github.com/aashrithar21/AI-Shopping-Buddy---Smart-Price-Finder)
+🔗 **[View Project Repository](https://github.com/aashrithar21/AI-Shopping-Buddy---Smart-Price-Finder)**
 
 ### 🎵 Music Emotion Recognition & Mood Detection
 
-A machine-learning project that explores emotion recognition in music using MFCC feature extraction and classification models.
+A project exploring music emotion recognition and mood detection using audio features and machine-learning techniques.
 
-**Explore the project:** [Music Emotion Recognition](https://github.com/aashrithar21/Music-Emotion-Recognition-Mood-Detection-)
-
-### 🌐 Personal Portfolio
-
-A portfolio project for showcasing projects, skills, and development work.
-
-**Explore the project:** [Portfolio Repository](https://github.com/aashrithar21/Portfolio)
+🔗 **[View Project Repository](https://github.com/aashrithar21/Music-Emotion-Recognition-Mood-Detection-)**
 
 ### 🧩 Data Structures & Algorithms
 
-A repository for practicing programming concepts and problem-solving.
+Learning Data Structures and Algorithms to strengthen problem-solving skills, understand core programming concepts, and improve logical thinking.
 
-**Explore the project:** [DSA Repository](https://github.com/aashrithar21/DSA)
+🔗 **[Explore DSA Repository](https://github.com/aashrithar21/DSA)**
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aashrithar21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aashrithar21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashrithar21&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
@@ -89,7 +97,7 @@ A repository for practicing programming concepts and problem-solving.
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak
 
 <div align="center">
 
@@ -99,33 +107,41 @@ A repository for practicing programming concepts and problem-solving.
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aashrithar21&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+<a href="https://github.com/aashrithar21">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashrithar21&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+</a>
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## 🎯 Current Goals
 
-* [ ] Build more real-world projects.
-* [ ] Strengthen my problem-solving skills.
-* [ ] Explore AI and machine learning applications.
-* [ ] Improve my software development skills.
+* [ ] Strengthen Python programming skills.
+* [ ] Learn and solve more DSA problems.
+* [ ] Explore Machine Learning applications.
+* [ ] Develop useful real-world projects.
+* [ ] Learn more about Cloud Computing.
 * [ ] Contribute to open-source projects.
-* [ ] Collaborate with other developers.
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/aashrithar21">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/aashritha-royyala-b94305344">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:aashrithar21@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -133,8 +149,6 @@ A repository for practicing programming concepts and problem-solving.
 ---
 
 <div align="center">
-
-### 💡 Keep Learning. Keep Building. Keep Growing. 🚀
 
 Thanks for visiting my profile!
 
