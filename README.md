@@ -1,35 +1,39 @@
-<div align="center">
+# Hey 👋, I'm Aashritha Royyala!
 
-# Hi there, I'm Aashritha Royyala! 👋
+### 💻 B.Tech CSE Student | Python Developer | Machine Learning Enthusiast | Cloud Computing Explorer
 
-### 🚀 B.Tech CSE Student | Python Developer | Cloud Computing | DSA Learner
+💡 Turning curiosity into code and ideas into meaningful projects.
+🐍 Exploring Python to solve problems and build smarter applications.
+🧠 Exploring Machine Learning and its practical applications.
+☁️ Discovering cloud technologies and the possibilities of AWS.
+🧩 Strengthening my problem-solving skills through Data Structures & Algorithms.
+🚀 Learning by building, experimenting, and embracing new challenges.
 
-💡 Passionate about Python, Machine Learning, and Cloud Computing.
+🎯 **Currently Focused On:** Python • Machine Learning • Cloud Computing • DSA
 
-🌱 Exploring and building projects.
-📚 Learning DSA and improving my problem-solving skills.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer;Exploring+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Building+Projects+and+Learning" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aashrithar21&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=70A5FD&center=false&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+Machine+Learning;Learning+Python+and+DSA;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aashrithar21&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a B.Tech Computer Science and Engineering student passionate about programming, emerging technologies, and continuous learning.
+I'm a B.Tech Computer Science and Engineering student passionate about software development, problem-solving, and emerging technologies.
 
-* 🐍 Developing my Python programming skills.
-* 🤖 Exploring Machine Learning and Artificial Intelligence.
-* ☁️ Learning about Cloud Computing and its applications.
-* 🧩 Learning Data Structures and Algorithms.
-* 🚀 Exploring new technologies and building projects.
-* 🌱 Improving my skills through hands-on experience.
-* 🤝 Interested in collaborating with fellow developers and learners.
+* 🐍 **Programming:** Developing Python skills and writing clean, efficient code.
+* 🧠 **Machine Learning:** Exploring machine learning concepts and practical applications.
+* ☁️ **Cloud Computing:** Learning cloud technologies and AWS fundamentals.
+* 🧩 **Problem Solving:** Learning Data Structures & Algorithms to strengthen logical thinking.
+* 🛠️ **Project Development:** Applying technical knowledge through hands-on projects.
+* 🌱 **Continuous Learning:** Expanding my skills through practice and experimentation.
+* 🤝 **Collaboration:** Connecting with developers and learning through shared ideas.
+
+🎯 **Goal:** To become a skilled software developer and build practical, impactful solutions.
 
 ---
 
@@ -38,28 +42,26 @@ I'm a B.Tech Computer Science and Engineering student passionate about programmi
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Programming Languages" />
 </p>
 
-### 🌐 Web Technologies
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Web Development" />
 </p>
 
-### ⚙️ Developer Tools
+### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools and Platforms" />
 </p>
 
-### ☁️ Cloud & Data
+### ☁️ Cloud & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb&theme=dark" alt="Cloud and Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb" alt="Cloud and Databases" />
 </p>
-
-> Keep only the technologies you have used or are currently learning. Remove any icons that don't match your experience.
 
 ---
 
@@ -67,91 +69,74 @@ I'm a B.Tech Computer Science and Engineering student passionate about programmi
 
 ### 🛍️ AI Shopping Buddy — Smart Price Finder
 
-An AI-oriented shopping project focused on helping users explore products and compare prices.
+🔗 [View Repository](https://github.com/aashrithar21/AI-Shopping-Buddy---Smart-Price-Finder)
 
-🔗 **[View Project Repository](https://github.com/aashrithar21/AI-Shopping-Buddy---Smart-Price-Finder)**
+An intelligent shopping project focused on helping users compare product prices and make informed purchasing decisions.
 
 ### 🎵 Music Emotion Recognition & Mood Detection
 
-A project exploring music emotion recognition and mood detection using audio features and machine-learning techniques.
+🔗 [View Repository](https://github.com/aashrithar21/Music-Emotion-Recognition-Mood-Detection-)
 
-🔗 **[View Project Repository](https://github.com/aashrithar21/Music-Emotion-Recognition-Mood-Detection-)**
+A machine learning project exploring the relationship between music and emotions to identify moods from music-related data.
 
-### 🧩 Data Structures & Algorithms
+### 🧩 Data Structures & Algorithms — Learning
 
-Learning Data Structures and Algorithms to strengthen problem-solving skills, understand core programming concepts, and improve logical thinking.
+🔗 [View Repository](https://github.com/aashrithar21/DSA)
 
-🔗 **[Explore DSA Repository](https://github.com/aashrithar21/DSA)**
+Documenting my learning journey in Data Structures & Algorithms while developing problem-solving skills and strengthening programming fundamentals.
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashrithar21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aashrithar21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashrithar21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashrithar21&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aashrithar21&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aashrithar21&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 Contribution Graph
 
-<div align="center">
-
-<a href="https://github.com/aashrithar21">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashrithar21&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashrithar21&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-* [ ] Strengthen Python programming skills.
-* [ ] Learn and solve more DSA problems.
-* [ ] Explore Machine Learning applications.
-* [ ] Develop useful real-world projects.
-* [ ] Learn more about Cloud Computing.
-* [ ] Contribute to open-source projects.
+* [ ] 🐍 Improve my Python programming skills.
+* [ ] 🧩 Learn and understand Data Structures & Algorithms.
+* [ ] 🧠 Explore Machine Learning and build practical applications.
+* [ ] 🛠️ Develop more hands-on, real-world projects.
+* [ ] ☁️ Learn Cloud Computing and AWS fundamentals.
+* [ ] 🌍 Explore open-source projects and collaborative development.
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/aashrithar21">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/aashritha-royyala-b94305344">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:aashrithar21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://github.com/aashrithar21">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashritha-royyala-b94305344">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aashrithar21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-
-<div align="center">
 
 Thanks for visiting my profile!
-
 ⭐ Feel free to explore my repositories and projects.
-
-</div>
